@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27CEEED61DCDF35100A55F84 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CEEED51DCDF35100A55F84 /* PostCell.swift */; };
 		27D8484E1DCC88AE004675C5 /* FancyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D8484D1DCC88AE004675C5 /* FancyView.swift */; };
 		27D848511DCC89B7004675C5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D848501DCC89B7004675C5 /* Constants.swift */; };
 		27D848531DCC8D70004675C5 /* RoundBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D848521DCC8D70004675C5 /* RoundBtn.swift */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		263528B954A5B7BF8E558997 /* Pods-Social.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Social.release.xcconfig"; path = "Pods/Target Support Files/Pods-Social/Pods-Social.release.xcconfig"; sourceTree = "<group>"; };
+		27CEEED51DCDF35100A55F84 /* PostCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		27D8484D1DCC88AE004675C5 /* FancyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FancyView.swift; sourceTree = "<group>"; };
 		27D848501DCC89B7004675C5 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		27D848521DCC8D70004675C5 /* RoundBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundBtn.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				27D848541DCC8F03004675C5 /* FancyField.swift */,
 				27D848561DCC9036004675C5 /* FancyButton.swift */,
 				27D8485B1DCD1DFA004675C5 /* CircleView.swift */,
+				27CEEED51DCDF35100A55F84 /* PostCell.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				27F31DE41DCB9B710064A31A /* AppDelegate.swift in Sources */,
 				27D8484E1DCC88AE004675C5 /* FancyView.swift in Sources */,
 				27D848511DCC89B7004675C5 /* Constants.swift in Sources */,
+				27CEEED61DCDF35100A55F84 /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
